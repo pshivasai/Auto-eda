@@ -10,7 +10,7 @@ An interactive web application built with Streamlit that automates the Explorato
 
 The project is built with a modular `eda_engine` backend, allowing its functions to be directly imported and used in any Python script or Jupyter Notebook for more customized analysis.
 
-> **Note:** You should create a GIF of your app in action and replace the placeholder link above. You can use tools like **ScreenToGif** or **GIPHY Capture**.
+>
 
 ---
 
